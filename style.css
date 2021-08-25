@@ -63,6 +63,7 @@ nav ul li a{
  }
  /* content */
  .content{
+  min-height:65vh;
    padding:2rem 2rem;
  }
  .big-h{
